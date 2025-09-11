@@ -148,6 +148,4 @@ or
 
 ### Congrats 🎉🎉
 you have successfully verified your contract 
-you can check the scan
-
-### Proudly sponsored by WAGMI.
+you can check the network explorer
