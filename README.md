@@ -18,7 +18,7 @@ or using pnpm
 ```
 or using pnpm
 ```
-    pnpm add -D @nomicfoundation/hardhat-keystore
+    pnpm add -D @nomicfoundation/hardhat-verify
 ```
 
 - add Your environment variables using keystore instead of using the custom VARS in V2
