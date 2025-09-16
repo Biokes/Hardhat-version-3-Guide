@@ -139,7 +139,7 @@ or with pnpm
 ```
 - Run the script using 
 ```
-    hardhat verify --network <YOUR NETWORK TO DEPLOY AS IT IS IN THE HARDHAT CONFIG (liskSepolia in this case)> <DEPLOYED CONTRACT ADDRESS> 
+   npx hardhat verify --network <YOUR NETWORK TO DEPLOY AS IT IS IN THE HARDHAT CONFIG (liskSepolia in this case)> <DEPLOYED CONTRACT ADDRESS> 
 ```
 or 
 ```
